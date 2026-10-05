@@ -1,0 +1,6 @@
+pandas>=2.0
+requests>=2.31
+SQLAlchemy>=2.0
+schedule>=1.2
+pytest>=8.0
+matplotlib>=3.7
